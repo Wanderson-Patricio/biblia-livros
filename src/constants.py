@@ -155,7 +155,7 @@ books: List[Dict[str, str]] = [
     },
     {
         "abrev": "CAN",
-        "name": "Cantares",
+        "name": "Cânticos",
     },
     {
         "abrev": "ISA",
@@ -179,7 +179,7 @@ books: List[Dict[str, str]] = [
     },
     {
         "abrev": "OS",
-        "name": "Oseias",
+        "name": "Oséias",
     },
     {
         "abrev": "JL",
@@ -199,7 +199,7 @@ books: List[Dict[str, str]] = [
     },
     {
         "abrev": "MIQ",
-        "name": "Miqueias",
+        "name": "Miquéias",
     },
     {
         "abrev": "NAM",
@@ -243,7 +243,7 @@ books: List[Dict[str, str]] = [
     },
     {
         "abrev": "AT",
-        "name": "Atos",
+        "name": "Atos dos Apóstolos",
     },
     {
         "abrev": "ROM",
